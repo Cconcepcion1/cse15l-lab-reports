@@ -10,7 +10,7 @@ Step 2: Windows Users: - install git for windows [Here](https://gitforwindows.or
         Mac Users: - you will be asked to authenticate; type yes. 
         Mac Users: - you will enter the password created specific to your course specific account letters. 
         Mac Users: - you are now connected to your course account. 
-        Result of server should look like this ![Image](server output.jpg)
+        Result of server should look like this ![Image](server.jpg)
 
 Step 3: Run commands such as cd , ls , pwd , mkdir , and cp and observe the commands you see in the terminal. 
         Output picture shoud look like this ![Image](commands.jpg) 
