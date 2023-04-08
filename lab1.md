@@ -1,4 +1,5 @@
-**Lab Report 1
+**Lab Report 1**
+
 
 To Get Started: 
 Step 1: Download and Install VSCode [Here](https://code.visualstudio.com/) Versions for both Mac and Windows
